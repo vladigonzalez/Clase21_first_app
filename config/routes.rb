@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   get 'pages/two'
 	
-	get 'pages/tree'
+	get 'pages/three'
 
   root 'pages#one'
 
